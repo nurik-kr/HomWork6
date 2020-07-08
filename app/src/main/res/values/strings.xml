@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HomWork6</string>
+    <string name="product">Товары</string>
+    <string name="uslugi">Услуги</string>
+    <string name="proga">О приложении</string>
+    <string name="TVmersedes_benz">MERSEDES-BENZ</string>
+    <string name="TVbmw">BMW</string>
+    <string name="TVlada">LADA</string>
+    <string name="TVpokaraska">Покраска автомобиля</string>
+    <string name="TVxodovka">Ремонт ходовой части</string>
+    <string name="TVzagolovka">Автосалон PRESTIG</string>
+    <string name="TVakpp">Ремонт двигателя и АКПП</string>
+    <string name="TVuslugi">Услуги Автосалона PRESTIG</string>
+    <string name="TVproge">О приложении что могу сказать\nсамое простое приложение пока что фантазий чутка мало\nно думаю вскором времени и научимся красиво верстать</string>
+</resources>
